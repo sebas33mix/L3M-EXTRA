@@ -1,0 +1,953 @@
+[00:09:06] [modloading-worker-0/INFO] ========================================
+[00:09:06] [modloading-worker-0/INFO] Minecraft: 1.20.1
+[00:09:06] [modloading-worker-0/INFO] Side: server
+[00:09:06] [modloading-worker-0/INFO] Development: false
+[00:09:06] [modloading-worker-0/INFO] Version: 12.1.770
+[00:09:06] [modloading-worker-0/INFO] Loader:
+[00:09:06] [modloading-worker-0/INFO] - Forge: 47.2.0
+[00:09:06] [modloading-worker-0/INFO] Dependencies:
+[00:09:06] [modloading-worker-0/INFO] - Cloth Config: 11.1.136
+[00:09:06] [modloading-worker-0/INFO] - Architectury: 9.2.14
+[00:09:06] [modloading-worker-0/INFO] Mixin: 0.8.5
+[00:09:06] [modloading-worker-0/INFO] OS: Linux 6.5.0-1025-azure (amd64)
+[00:09:06] [modloading-worker-0/INFO] Java: 21.0.4 (Microsoft)
+[00:09:06] [modloading-worker-0/INFO] ========================================
+[00:09:06] [modloading-worker-0/INFO] Mods:
+[00:09:06] [modloading-worker-0/INFO] - advancementplaques: 1.6.7
+[00:09:06] [modloading-worker-0/INFO] - aether: 1.20.1-1.4.2-neoforge
+[00:09:06] [modloading-worker-0/INFO] - aiimprovements: 0.5.2
+[00:09:06] [modloading-worker-0/INFO] - amendments: 1.20-1.2.11
+[00:09:06] [modloading-worker-0/INFO] - animal_feeding_trough: 1.1.0+1.20.1-forge
+[00:09:06] [modloading-worker-0/INFO] - appleskin: 2.5.1+mc1.20.1
+[00:09:06] [modloading-worker-0/INFO] - aquaculture: 2.5.2
+[00:09:06] [modloading-worker-0/INFO] - aquaculturedelight: 1.0.0
+[00:09:06] [modloading-worker-0/INFO] - architectury: 9.2.14
+[00:09:06] [modloading-worker-0/INFO] - artifacts: 9.5.13
+[00:09:06] [modloading-worker-0/INFO] - athena: 3.1.1
+[00:09:06] [modloading-worker-0/INFO] - attributefix: 21.0.4
+[00:09:06] [modloading-worker-0/INFO] - azurelib: 2.0.39
+[00:09:06] [modloading-worker-0/INFO] - badoptimizations: 2.1.4
+[00:09:06] [modloading-worker-0/INFO] - balm: 7.3.9
+[00:09:06] [modloading-worker-0/INFO] - beekeeperhut: 2.0.1
+[00:09:06] [modloading-worker-0/INFO] - betteradvancements: 0.4.2.10
+[00:09:06] [modloading-worker-0/INFO] - betterarcheology: 1.2.1-1.20.1
+[00:09:06] [modloading-worker-0/INFO] - betterdeserttemples: 1.20-Forge-3.0.3
+[00:09:06] [modloading-worker-0/INFO] - betterdungeons: 1.20-Forge-4.0.4
+[00:09:06] [modloading-worker-0/INFO] - betterendisland: 1.20-Forge-2.0.6
+[00:09:06] [modloading-worker-0/INFO] - betterfortresses: 1.20-Forge-2.0.6
+[00:09:06] [modloading-worker-0/INFO] - betterfpsdist: 1.20.1-6.0
+[00:09:06] [modloading-worker-0/INFO] - betterjungletemples: 1.20-Forge-2.0.5
+[00:09:06] [modloading-worker-0/INFO] - bettermineshafts: 1.20-Forge-4.0.4
+[00:09:06] [modloading-worker-0/INFO] - betteroceanmonuments: 1.20-Forge-3.0.4
+[00:09:06] [modloading-worker-0/INFO] - betterstrongholds: 1.20-Forge-4.0.3
+[00:09:06] [modloading-worker-0/INFO] - betterwitchhuts: 1.20-Forge-3.0.3
+[00:09:06] [modloading-worker-0/INFO] - blueprint: 7.1.0
+[00:09:06] [modloading-worker-0/INFO] - boatbreakfix: 1.0.2
+[00:09:06] [modloading-worker-0/INFO] - bookshelf: 20.2.13
+[00:09:06] [modloading-worker-0/INFO] - born_in_chaos_v1: 1.0.0
+[00:09:06] [modloading-worker-0/INFO] - botanypots: 13.0.39
+[00:09:06] [modloading-worker-0/INFO] - botanytrees: 9.0.17
+[00:09:06] [modloading-worker-0/INFO] - bwrtherain: 2.3.4
+[00:09:06] [modloading-worker-0/INFO] - caelus: 3.2.0+1.20.1
+[00:09:06] [modloading-worker-0/INFO] - callablehorses: 1.3.0.1
+[00:09:06] [modloading-worker-0/INFO] - carryon: 2.1.2.7
+[00:09:06] [modloading-worker-0/INFO] - cave_dweller: 1.6.4
+[00:09:06] [modloading-worker-0/INFO] - cgm: 1.4.18
+[00:09:06] [modloading-worker-0/INFO] - chas: 1.20
+[00:09:06] [modloading-worker-0/INFO] - chat_heads: 0.13.0
+[00:09:06] [modloading-worker-0/INFO] - chimes: 2.0.1
+[00:09:06] [modloading-worker-0/INFO] - chiselsandbits: 1.4.148
+[00:09:06] [modloading-worker-0/INFO] - chunksending: 1.20.1-2.8
+[00:09:06] [modloading-worker-0/INFO] - cloth_config: 11.1.136
+[00:09:06] [modloading-worker-0/INFO] - clumps: 12.0.0.4
+[00:09:06] [modloading-worker-0/INFO] - collective: 7.84
+[00:09:06] [modloading-worker-0/INFO] - connectivity: 1.20.1-5.6
+[00:09:06] [modloading-worker-0/INFO] - constructionwand: 1.20.1-2.11
+[00:09:06] [modloading-worker-0/INFO] - controlling: 12.0.2
+[00:09:06] [modloading-worker-0/INFO] - coroutil: 1.20.1-1.3.7
+[00:09:06] [modloading-worker-0/INFO] - crackerslib: 1.20.1-0.3.2.1
+[00:09:06] [modloading-worker-0/INFO] - craftable_flint_from_gravel: 1.0.0
+[00:09:06] [modloading-worker-0/INFO] - craftingtweaks: 18.2.5
+[00:09:06] [modloading-worker-0/INFO] - creativecore: 2.11.38
+[00:09:06] [modloading-worker-0/INFO] - cristellib: 1.1.5
+[00:09:06] [modloading-worker-0/INFO] - cumulus_menus: 1.20.1-1.0.0-neoforge
+[00:09:06] [modloading-worker-0/INFO] - cupboard: 1.20.1-2.7
+[00:09:06] [modloading-worker-0/INFO] - curios: 5.10.0+1.20.1
+[00:09:06] [modloading-worker-0/INFO] - darkcap: 1.0.7
+[00:09:06] [modloading-worker-0/INFO] - darkdeath: 1.0.3
+[00:09:06] [modloading-worker-0/INFO] - darkglint: 1.0.3
+[00:09:06] [modloading-worker-0/INFO] - darkheads: 1.0.6
+[00:09:06] [modloading-worker-0/INFO] - darkrtp: 1.0.9
+[00:09:06] [modloading-worker-0/INFO] - darksmithing: 1.0.5
+[00:09:06] [modloading-worker-0/INFO] - darkspawn: 1.0.5
+[00:09:06] [modloading-worker-0/INFO] - darkzoom: 1.0.1
+[00:09:06] [modloading-worker-0/INFO] - deeperdarker: 1.3.2
+[00:09:06] [modloading-worker-0/INFO] - despawn_tweaker: 1.20.1-1.0.0
+[00:09:06] [modloading-worker-0/INFO] - deuf: 1.20.1-1.3
+[00:09:06] [modloading-worker-0/INFO] - diagonalblocks: 8.0.5
+[00:09:06] [modloading-worker-0/INFO] - diagonalfences: 8.1.4
+[00:09:06] [modloading-worker-0/INFO] - diagonalwindows: 8.1.4
+[00:09:06] [modloading-worker-0/INFO] - doubledoors: 5.9
+[00:09:06] [modloading-worker-0/INFO] - dummmmmmy: 1.20-2.0.1
+[00:09:06] [modloading-worker-0/INFO] - dungeoncrawl: 2.3.14
+[00:09:06] [modloading-worker-0/INFO] - dynamic_fps: 3.7.1
+[00:09:06] [modloading-worker-0/INFO] - dynamiclights: 1.20.1.2
+[00:09:06] [modloading-worker-0/INFO] - easyanvils: 8.0.2
+[00:09:06] [modloading-worker-0/INFO] - easymagic: 8.0.1
+[00:09:06] [modloading-worker-0/INFO] - elevatorid: 1.20.1-lex-1.9
+[00:09:06] [modloading-worker-0/INFO] - elytra_bar: 5.0
+[00:09:06] [modloading-worker-0/INFO] - elytraslot: 6.4.4+1.20.1
+[00:09:06] [modloading-worker-0/INFO] - enchdesc: 17.1.18
+[00:09:06] [modloading-worker-0/INFO] - endertrigon: 1.20.1-1.1
+[00:09:06] [modloading-worker-0/INFO] - endofherobrine: 1.20.1-1.0.8.2
+[00:09:06] [modloading-worker-0/INFO] - expandability: 9.0.4
+[00:09:06] [modloading-worker-0/INFO] - explorerscompass: 1.20.1-1.3.3-forge
+[00:09:06] [modloading-worker-0/INFO] - explorify: 1.6.2
+[00:09:06] [modloading-worker-0/INFO] - fallingleaves: 2.1.0
+[00:09:06] [modloading-worker-0/INFO] - farmersdelight: 1.20.1-1.2.4
+[00:09:06] [modloading-worker-0/INFO] - fastasyncworldsave: 1.20.1-2.0
+[00:09:06] [modloading-worker-0/INFO] - fastconfigapi: 2.1.0
+[00:09:06] [modloading-worker-0/INFO] - fastleafdecay: 32
+[00:09:06] [modloading-worker-0/INFO] - ferritecore: 6.0.1
+[00:09:06] [modloading-worker-0/INFO] - forge: 47.2.0
+[00:09:06] [modloading-worker-0/INFO] - framework: 0.7.8
+[00:09:06] [modloading-worker-0/INFO] - friendlyfire: 18.0.7
+[00:09:06] [modloading-worker-0/INFO] - friendsandfoes: 2.0.17
+[00:09:06] [modloading-worker-0/INFO] - fusion: 1.1.1
+[00:09:06] [modloading-worker-0/INFO] - gamemenumodoption: 2.2.1
+[00:09:06] [modloading-worker-0/INFO] - geckolib: 4.4.9
+[00:09:06] [modloading-worker-0/INFO] - getittogetherdrops: 1.3
+[00:09:06] [modloading-worker-0/INFO] - goblintraders: 1.9.3
+[00:09:06] [modloading-worker-0/INFO] - gpumemleakfix: 1.20.1-1.8
+[00:09:06] [modloading-worker-0/INFO] - grassslabs: 1.3
+[00:09:06] [modloading-worker-0/INFO] - gravestone: 1.20.1-1.0.24
+[00:09:06] [modloading-worker-0/INFO] - guardvillagers: 1.20.1-1.6.7
+[00:09:06] [modloading-worker-0/INFO] - horde_hoard: 1.1.0
+[00:09:06] [modloading-worker-0/INFO] - horseexpert: 8.1.1
+[00:09:06] [modloading-worker-0/INFO] - iceberg: 1.1.21
+[00:09:06] [modloading-worker-0/INFO] - illagerinvasion: 8.0.6
+[00:09:06] [modloading-worker-0/INFO] - immediatelyfast: 1.2.21+1.20.4
+[00:09:06] [modloading-worker-0/INFO] - immersive_paintings: 0.6.7+1.20.1
+[00:09:06] [modloading-worker-0/INFO] - jade: 11.11.1+forge
+[00:09:06] [modloading-worker-0/INFO] - jei: 15.9999
+[00:09:06] [modloading-worker-0/INFO] - journeymap: 5.10.2
+[00:09:06] [modloading-worker-0/INFO] - jumpboat: 1.20.0-1.0.5
+[00:09:06] [modloading-worker-0/INFO] - kiwi: 11.6.2
+[00:09:06] [modloading-worker-0/INFO] - konkrete: 1.8.0
+[00:09:06] [modloading-worker-0/INFO] - krypton: 0.2.3
+[00:09:06] [modloading-worker-0/INFO] - kuma_api: 20.1.8
+[00:09:06] [modloading-worker-0/INFO] - l2library: 2.4.16
+[00:09:06] [modloading-worker-0/INFO] - labellingcontainers: 1.8.0
+[00:09:06] [modloading-worker-0/INFO] - loadingbackgrounds: 1.5.0
+[00:09:06] [modloading-worker-0/INFO] - loadmyresources: 1.0.4
+[00:09:06] [modloading-worker-0/INFO] - logbegone: 1.0.8
+[00:09:06] [modloading-worker-0/INFO] - majruszlibrary: 7.0.8
+[00:09:06] [modloading-worker-0/INFO] - majruszsenchantments: 1.10.8
+[00:09:06] [modloading-worker-0/INFO] - man: 1.3.1
+[00:09:06] [modloading-worker-0/INFO] - manyideas_core: 1.4.2
+[00:09:06] [modloading-worker-0/INFO] - manyideas_halloween: 1.0.0
+[00:09:06] [modloading-worker-0/INFO] - mcwbridges: 3.0.0
+[00:09:06] [modloading-worker-0/INFO] - mcwdoors: 1.1.1
+[00:09:06] [modloading-worker-0/INFO] - mcwfences: 1.1.2
+[00:09:06] [modloading-worker-0/INFO] - mcwlights: 1.1.0
+[00:09:06] [modloading-worker-0/INFO] - mcwpaths: 1.0.5
+[00:09:06] [modloading-worker-0/INFO] - mcwroofs: 2.3.1
+[00:09:06] [modloading-worker-0/INFO] - mcwstairs: 1.0.0
+[00:09:06] [modloading-worker-0/INFO] - mcwwindows: 2.3.0
+[00:09:06] [modloading-worker-0/INFO] - melody: 1.0.2
+[00:09:06] [modloading-worker-0/INFO] - mes: 1.3.4-1.20-forge
+[00:09:06] [modloading-worker-0/INFO] - minecraft: 1.20.1
+[00:09:06] [modloading-worker-0/INFO] - mixinextras: 0.4.1
+[00:09:06] [modloading-worker-0/INFO] - mixinsquared: 0.1.2-beta.6
+[00:09:06] [modloading-worker-0/INFO] - mobsunscreen: 3.1.1
+[00:09:06] [modloading-worker-0/INFO] - modernfix: 5.19.4+mc1.20.1
+[00:09:06] [modloading-worker-0/INFO] - monolib: 1.3.0
+[00:09:06] [modloading-worker-0/INFO] - moonlight: 1.20-2.13.0
+[00:09:06] [modloading-worker-0/INFO] - mousetweaks: 2.25.1
+[00:09:06] [modloading-worker-0/INFO] - mowziesmobs: 1.6.4
+[00:09:06] [modloading-worker-0/INFO] - mr_dungeons_andtaverns: 3.0.3.f
+[00:09:06] [modloading-worker-0/INFO] - myserveriscompatible: 1.0
+[00:09:06] [modloading-worker-0/INFO] - naturescompass: 1.20.1-1.11.2-forge
+[00:09:06] [modloading-worker-0/INFO] - necronomicon: 1.4.2
+[00:09:06] [modloading-worker-0/INFO] - netherexp: 2.0.2
+[00:09:06] [modloading-worker-0/INFO] - netherportalfix: 13.0.1
+[00:09:06] [modloading-worker-0/INFO] - nethersdelight: 1.20.1-4.0
+[00:09:06] [modloading-worker-0/INFO] - nitrogen_internals: 1.20.1-1.0.7-neoforge
+[00:09:06] [modloading-worker-0/INFO] - nochatreports: 1.20.1-v2.2.2
+[00:09:06] [modloading-worker-0/INFO] - noincreasingrepaircost: 1.0.0
+[00:09:06] [modloading-worker-0/INFO] - noisium: 2.3.0+mc1.20-1.20.1
+[00:09:06] [modloading-worker-0/INFO] - notenoughanimations: 1.7.6
+[00:09:06] [modloading-worker-0/INFO] - oceansdelight: 1.0.2-1.20
+[00:09:06] [modloading-worker-0/INFO] - pickupnotifier: 8.0.0
+[00:09:06] [modloading-worker-0/INFO] - placebo: 8.6.2
+[00:09:06] [modloading-worker-0/INFO] - playeranimator: 1.0.2-rc1+1.20
+[00:09:06] [modloading-worker-0/INFO] - playerrevive: 2.0.29
+[00:09:06] [modloading-worker-0/INFO] - plenty_of_golems: 1.3.0
+[00:09:06] [modloading-worker-0/INFO] - prism: 1.0.5
+[00:09:06] [modloading-worker-0/INFO] - puzzlesaccessapi: 8.0.7
+[00:09:06] [modloading-worker-0/INFO] - puzzleslib: 8.1.23
+[00:09:06] [modloading-worker-0/INFO] - rechiseled: 1.1.6
+[00:09:06] [modloading-worker-0/INFO] - refurbished_furniture: 1.0.6
+[00:09:06] [modloading-worker-0/INFO] - rei_plugin_compatibilities: 12.0.93
+[00:09:06] [modloading-worker-0/INFO] - rightclickharvest: 3.2.3+1.20.1-forge
+[00:09:06] [modloading-worker-0/INFO] - roughlyenoughitems: 12.1.770
+[00:09:06] [modloading-worker-0/INFO] - scena: 1.0.103
+[00:09:06] [modloading-worker-0/INFO] - searchables: 1.0.3
+[00:09:06] [modloading-worker-0/INFO] - securitycraft: 1.9.10
+[00:09:06] [modloading-worker-0/INFO] - shieldexp: 1.1.7a
+[00:09:06] [modloading-worker-0/INFO] - skinrestorer: 2.1.0+1.20-forge
+[00:09:06] [modloading-worker-0/INFO] - smarterfarmers: 1.20-2.1.0
+[00:09:06] [modloading-worker-0/INFO] - spawnermod: 1.9.3
+[00:09:06] [modloading-worker-0/INFO] - starlight: 1.1.2+forge.1cda73c
+[00:09:06] [modloading-worker-0/INFO] - starterkit: 7.1
+[00:09:06] [modloading-worker-0/INFO] - startinv: 1.0.0
+[00:09:06] [modloading-worker-0/INFO] - structory: 1.3.5
+[00:09:06] [modloading-worker-0/INFO] - structureessentials: 1.20.1-3.4
+[00:09:06] [modloading-worker-0/INFO] - supermartijn642configlib: 1.1.8
+[00:09:06] [modloading-worker-0/INFO] - supermartijn642corelib: 1.1.17+a
+[00:09:06] [modloading-worker-0/INFO] - supplementaries: 1.20-2.8.17
+[00:09:06] [modloading-worker-0/INFO] - suppsquared: 1.20-1.1.15
+[00:09:06] [modloading-worker-0/INFO] - t_and_t: 0.0NONE
+[00:09:06] [modloading-worker-0/INFO] - tenshilib: 1.20.1-1.7.6
+[00:09:06] [modloading-worker-0/INFO] - terrablender: 3.0.1.7
+[00:09:06] [modloading-worker-0/INFO] - the_bumblezone: 7.4.18+1.20.1-forge
+[00:09:06] [modloading-worker-0/INFO] - timeondisplay: 2.0.0
+[00:09:06] [modloading-worker-0/INFO] - toastcontrol: 8.0.3
+[00:09:06] [modloading-worker-0/INFO] - toms_storage: 1.6.8
+[00:09:06] [modloading-worker-0/INFO] - tonsofenchants: 1.0.0
+[00:09:06] [modloading-worker-0/INFO] - torchmaster: 20.1.8
+[00:09:06] [modloading-worker-0/INFO] - trashcans: 1.0.18b
+[00:09:06] [modloading-worker-0/INFO] - travelersbackpack: 9.1.15
+[00:09:06] [modloading-worker-0/INFO] - twilightdelight: 2.0.13
+[00:09:06] [modloading-worker-0/INFO] - twilightforest: 4.3.2508
+[00:09:06] [modloading-worker-0/INFO] - unpaused: 1.20.1-forge-1.0.1
+[00:09:06] [modloading-worker-0/INFO] - villagernames: 8.1
+[00:09:06] [modloading-worker-0/INFO] - visualworkbench: 8.0.0
+[00:09:06] [modloading-worker-0/INFO] - void_lib: 1.1.5
+[00:09:06] [modloading-worker-0/INFO] - watching: 1.9.2
+[00:09:06] [modloading-worker-0/INFO] - watut: 1.20.1-1.1.3
+[00:09:06] [modloading-worker-0/INFO] - waystones: 14.1.5
+[00:09:06] [modloading-worker-0/INFO] - wi_zoom: 1.5-MC1.20.1-Forge
+[00:09:06] [modloading-worker-0/INFO] - yungsapi: 1.20-Forge-4.0.5
+[00:09:06] [modloading-worker-0/INFO] - yungsbridges: 1.20-Forge-4.0.3
+[00:09:06] [modloading-worker-0/INFO] - yungsextras: 1.20-Forge-4.0.3
+[00:09:06] [modloading-worker-0/INFO] ========================================
+[00:09:06] [modloading-worker-0/INFO] [REI] Registered plugin provider ReiCompat [travelersbackpack] for REIPlugin
+[00:09:06] [modloading-worker-0/INFO] [REI] Registered plugin provider AetherREIServerPlugin [aether] for REIPlugin
+[00:09:06] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[00:09:06] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[00:09:06] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[00:09:06] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[00:09:06] [modloading-worker-0/INFO] [REI] Registered plugin provider ReiCompat [travelersbackpack] for REIServerPlugin
+[00:09:06] [modloading-worker-0/INFO] [REI] Registered plugin provider AetherREIServerPlugin [aether] for REIServerPlugin
+[00:09:26] [Worker-Main-1/DEBUG] [REI] Processed 908 tags in 9.768 ms for minecraft:item
+[00:09:26] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 7.584 μs for minecraft:worldgen/world_preset
+[00:09:26] [Worker-Main-1/DEBUG] [REI] Processed 5 tags in 42.10 μs for minecraft:enchantment
+[00:09:26] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 101.9 μs for minecraft:worldgen/biome
+[00:09:26] [Worker-Main-1/DEBUG] [REI] Processed 1 tags in 11.36 μs for minecraft:potion
+[00:09:26] [Worker-Main-1/DEBUG] [REI] Processed 24 tags in 119.9 μs for minecraft:banner_pattern
+[00:09:26] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 27.73 μs for minecraft:worldgen/structure
+[00:09:26] [Worker-Main-1/DEBUG] [REI] Processed 161 tags in 511.1 μs for minecraft:entity_type
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 2 tags in 27.77 μs for minecraft:block_entity_type
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 2 tags in 32.15 μs for minecraft:painting_variant
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 7.844 μs for minecraft:worldgen/flat_level_generator_preset
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 719 tags in 8.817 ms for minecraft:block
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 1 tags in 62.25 μs for minecraft:sound_event
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 10 tags in 36.05 μs for minecraft:mob_effect
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 5 tags in 36.95 μs for minecraft:instrument
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 2 tags in 23.16 μs for minecraft:cat_variant
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 6.662 μs for minecraft:worldgen/structure_set
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 8.115 μs for moonlight:soft_fluids
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 20 tags in 49.99 μs for minecraft:fluid
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 9.177 μs for twilight:wood_palettes
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 15.37 μs for minecraft:damage_type
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 7 tags in 171.6 μs for minecraft:game_event
+[00:09:27] [Worker-Main-1/DEBUG] [REI] Processed 5 tags in 117.1 μs for minecraft:point_of_interest_type
+[00:09:28] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 8.246 μs for minecraft:dimension_type
+[00:09:28] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 6.061 μs for minecraft:worldgen/placed_feature
+[00:09:33] [main/DEBUG] [REI] Starting Reload Plugins of stage null
+java.lang.Throwable
+	at TRANSFORMER/roughlyenoughitems@12.1.770/me.shedaniel.rei.impl.common.plugins.ReloadManagerImpl.reloadPlugins(ReloadManagerImpl.java:110)
+	at TRANSFORMER/roughlyenoughitems@12.1.770/me.shedaniel.rei.RoughlyEnoughItemsCore.lambda$onInitialize$5(RoughlyEnoughItemsCore.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.Util.m_214652_(Util.java:783)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.Util.m_214679_(Util.java:772)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.Main.main(Main.java:166)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.0/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.0/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.0/net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+[00:09:33] [main/DEBUG] [REI] ========================================
+[00:09:33] [main/DEBUG] [REI] REIPlugin starting pre-reload for START.
+[00:09:33] [main/DEBUG] [REI] Reloadables (7):
+[00:09:33] [main/DEBUG] [REI]  - EntryTypeRegistryImpl
+[00:09:33] [main/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[00:09:33] [main/DEBUG] [REI]  - RecipeManagerContextImpl
+[00:09:33] [main/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[00:09:33] [main/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[00:09:33] [main/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[00:09:33] [main/DEBUG] [REI]  - FluidSupportProviderImpl
+[00:09:33] [main/DEBUG] [REI] Plugins (4):
+[00:09:33] [main/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:33] [main/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:33] [main/DEBUG] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:33] [main/DEBUG] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:33] [main/DEBUG] [REI] ========================================
+[00:09:33] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 872.2 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 75.17 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 57.75 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/ReiCompat of ReiCompat [travelersbackpack]/" done in 56.73 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/" done in 14.08 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/EntryTypeRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/EntryTypeRegistryImpl/" done in 226.7 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/EntrySettingsAdapterRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/EntrySettingsAdapterRegistryImpl/" done in 64.25 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/RecipeManagerContextImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/RecipeManagerContextImpl/" done in 53.95 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/ItemComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/ItemComparatorRegistryImpl/" done in 49.92 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/FluidComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/FluidComparatorRegistryImpl/" done in 55.86 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/DisplaySerializerRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/DisplaySerializerRegistryImpl/" done in 54.98 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/FluidSupportProviderImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/FluidSupportProviderImpl/" done in 63.88 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/" done in 1.252 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIPlugin finished pre-reload for START in 15.91 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin starting pre-reload for START.
+[00:09:34] [main/DEBUG] [REI] Reloadables (2):
+[00:09:34] [main/DEBUG] [REI]  - MenuInfoRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[00:09:34] [main/DEBUG] [REI] Plugins (4):
+[00:09:34] [main/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 72.06 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 66.53 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/ReiCompat of ReiCompat [travelersbackpack]/" done in 76.64 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 50.89 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/" done in 713.7 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/MenuInfoRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/MenuInfoRegistryImpl/" done in 50.41 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/SlotAccessorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/SlotAccessorRegistryImpl/" done in 50.86 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/" done in 297.4 μs
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin finished pre-reload for START in 1.151 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/INFO] [REI] ++++++++++++++++++++++++++++++++++++++++
+[00:09:34] [main/INFO] [REI] REIPlugin starting main-reload for START.
+[00:09:34] [main/DEBUG] [REI] Reloadables (7):
+[00:09:34] [main/DEBUG] [REI]  - EntryTypeRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - RecipeManagerContextImpl
+[00:09:34] [main/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - FluidSupportProviderImpl
+[00:09:34] [main/INFO] [REI] Plugins (4):
+[00:09:34] [main/INFO] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:34] [main/INFO] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:34] [main/INFO] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:34] [main/INFO] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:34] [main/INFO] [REI] ++++++++++++++++++++++++++++++++++++++++
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/EntryTypeRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/EntryTypeRegistryImpl/" done in 98.24 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/" done in 98.42 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/RecipeManagerContextImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/RecipeManagerContextImpl/" done in 55.12 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/ItemComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/ItemComparatorRegistryImpl/" done in 71.34 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/FluidComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/FluidComparatorRegistryImpl/" done in 55.87 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/" done in 55.89 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/FluidSupportProviderImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/FluidSupportProviderImpl/" done in 62.56 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/" done in 1.577 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIPlugin started main-reload for START.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 307.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 9.132 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 134.5 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 65.63 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/" done in 10.59 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 63.28 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 57.56 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 58.18 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 60.15 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/" done in 674.7 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 58.95 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 57.04 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 52.87 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 54.20 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/" done in 584.6 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 1.073 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 68.04 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 56.79 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 53.74 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/" done in 1.677 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 77.18 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 64.34 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 74.62 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 77.06 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/" done in 865.4 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 67.86 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 56.59 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 60.04 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 66.01 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/" done in 747.6 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 493.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 67.84 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 57.27 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 83.18 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/" done in 1.153 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIPlugin ending main-reload for START.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/EntryTypeRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/EntryTypeRegistryImpl/" done in 67.09 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/" done in 46.58 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/RecipeManagerContextImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/RecipeManagerContextImpl/" done in 47.98 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/ItemComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/ItemComparatorRegistryImpl/" done in 49.08 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/FluidComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/FluidComparatorRegistryImpl/" done in 49.38 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/" done in 79.90 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/FluidSupportProviderImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/FluidSupportProviderImpl/" done in 59.75 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/" done in 1.156 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIPlugin ended main-reload for START in 25.13 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/INFO] [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[00:09:34] [main/INFO] [REI] REIServerPlugin starting main-reload for START.
+[00:09:34] [main/DEBUG] [REI] Reloadables (2):
+[00:09:34] [main/DEBUG] [REI]  - MenuInfoRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[00:09:34] [main/INFO] [REI] Plugins (4):
+[00:09:34] [main/INFO] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:34] [main/INFO] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:34] [main/INFO] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:34] [main/INFO] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:34] [main/INFO] [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/MenuInfoRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/MenuInfoRegistryImpl/" done in 61.62 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/SlotAccessorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/SlotAccessorRegistryImpl/" done in 48.69 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/" done in 435.3 μs
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin started main-reload for START.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 50.35 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 48.35 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 50.16 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 50.47 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/" done in 537.7 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 58.37 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 48.22 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 48.16 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 51.73 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/" done in 517.8 μs
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin ending main-reload for START.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/MenuInfoRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/MenuInfoRegistryImpl/" done in 43.56 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/SlotAccessorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/SlotAccessorRegistryImpl/" done in 42.99 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/" done in 251.9 μs
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin ended main-reload for START in 5.202 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIPlugin starting post-reload for START.
+[00:09:34] [main/DEBUG] [REI] Reloadables (7):
+[00:09:34] [main/DEBUG] [REI]  - EntryTypeRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - RecipeManagerContextImpl
+[00:09:34] [main/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - FluidSupportProviderImpl
+[00:09:34] [main/DEBUG] [REI] Plugins (4):
+[00:09:34] [main/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 280.4 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 133.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 122.5 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/ReiCompat of ReiCompat [travelersbackpack]/" done in 119.5 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/" done in 1.557 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/EntryTypeRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/EntryTypeRegistryImpl/" done in 129.6 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/EntrySettingsAdapterRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/EntrySettingsAdapterRegistryImpl/" done in 120.2 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/RecipeManagerContextImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/RecipeManagerContextImpl/" done in 124.2 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/ItemComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/ItemComparatorRegistryImpl/" done in 119.5 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/FluidComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/FluidComparatorRegistryImpl/" done in 119.7 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/DisplaySerializerRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/DisplaySerializerRegistryImpl/" done in 117.9 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/FluidSupportProviderImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/FluidSupportProviderImpl/" done in 119.1 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/" done in 2.005 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/INFO] [REI] REIPlugin finished post-reload for START in 3.832 ms, totaling 44.79 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin starting post-reload for START.
+[00:09:34] [main/DEBUG] [REI] Reloadables (2):
+[00:09:34] [main/DEBUG] [REI]  - MenuInfoRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[00:09:34] [main/DEBUG] [REI] Plugins (4):
+[00:09:34] [main/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 123.2 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 122.5 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/ReiCompat of ReiCompat [travelersbackpack]/" done in 121.7 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 120.4 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/" done in 1.245 ms
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/MenuInfoRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/MenuInfoRegistryImpl/" done in 108.7 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/SlotAccessorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/SlotAccessorRegistryImpl/" done in 110.5 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/" done in 856.9 μs
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/INFO] [REI] REIServerPlugin finished post-reload for START in 2.421 ms, totaling 8.702 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIPlugin starting pre-reload for END.
+[00:09:34] [main/DEBUG] [REI] Reloadables (7):
+[00:09:34] [main/DEBUG] [REI]  - EntryTypeRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - RecipeManagerContextImpl
+[00:09:34] [main/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - FluidSupportProviderImpl
+[00:09:34] [main/DEBUG] [REI] Plugins (4):
+[00:09:34] [main/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 122.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 101.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 96.53 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/ReiCompat of ReiCompat [travelersbackpack]/" done in 95.63 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/" done in 1.315 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/EntryTypeRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/EntryTypeRegistryImpl/" done in 95.95 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/EntrySettingsAdapterRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/EntrySettingsAdapterRegistryImpl/" done in 90.57 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/RecipeManagerContextImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/RecipeManagerContextImpl/" done in 104.5 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/ItemComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/ItemComparatorRegistryImpl/" done in 91.02 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/FluidComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/FluidComparatorRegistryImpl/" done in 89.55 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/DisplaySerializerRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/DisplaySerializerRegistryImpl/" done in 92.94 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/FluidSupportProviderImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/FluidSupportProviderImpl/" done in 90.71 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/" done in 1.700 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIPlugin finished pre-reload for END in 3.240 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin starting pre-reload for END.
+[00:09:34] [main/DEBUG] [REI] Reloadables (2):
+[00:09:34] [main/DEBUG] [REI]  - MenuInfoRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[00:09:34] [main/DEBUG] [REI] Plugins (4):
+[00:09:34] [main/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 114.5 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 121.3 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/ReiCompat of ReiCompat [travelersbackpack]/" done in 121.5 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 115.6 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/" done in 1.144 ms
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/MenuInfoRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/MenuInfoRegistryImpl/" done in 135.6 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/SlotAccessorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/SlotAccessorRegistryImpl/" done in 119.0 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/" done in 699.8 μs
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin finished pre-reload for END in 2.155 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/INFO] [REI] ########################################
+[00:09:34] [main/INFO] [REI] REIPlugin starting main-reload for END.
+[00:09:34] [main/DEBUG] [REI] Reloadables (7):
+[00:09:34] [main/DEBUG] [REI]  - EntryTypeRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - RecipeManagerContextImpl
+[00:09:34] [main/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - FluidSupportProviderImpl
+[00:09:34] [main/INFO] [REI] Plugins (4):
+[00:09:34] [main/INFO] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:34] [main/INFO] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:34] [main/INFO] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:34] [main/INFO] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:34] [main/INFO] [REI] ########################################
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/EntryTypeRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/EntryTypeRegistryImpl/" done in 125.9 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/" done in 173.5 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/RecipeManagerContextImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/RecipeManagerContextImpl/" done in 138.7 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/ItemComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/ItemComparatorRegistryImpl/" done in 128.3 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/FluidComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/FluidComparatorRegistryImpl/" done in 129.5 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/" done in 122.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/FluidSupportProviderImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/FluidSupportProviderImpl/" done in 132.3 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/" done in 2.233 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIPlugin started main-reload for END.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 156.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 260.4 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 243.4 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 134.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/" done in 1.757 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 137.1 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 121.3 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 122.2 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 243.1 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/" done in 1.525 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 152.4 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 117.2 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 125.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 127.7 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/" done in 1.227 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 120.2 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 118.1 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 121.2 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 150.7 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/" done in 2.504 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 137.4 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 148.9 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 159.8 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 126.6 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/" done in 1.590 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 21.80 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 164.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 1.075 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 133.3 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/" done in 24.13 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 140.2 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 154.1 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 126.3 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 129.5 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/" done in 1.324 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIPlugin ending main-reload for END.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/EntryTypeRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/EntryTypeRegistryImpl/" done in 110.7 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/" done in 816.2 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/RecipeManagerContextImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/RecipeManagerContextImpl/" done in 127.6 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/ItemComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/ItemComparatorRegistryImpl/" done in 118.2 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/FluidComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/FluidComparatorRegistryImpl/" done in 115.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/" done in 137.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/FluidSupportProviderImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/FluidSupportProviderImpl/" done in 139.4 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/" done in 2.763 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIPlugin ended main-reload for END in 50.01 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/INFO] [REI] ++++++++++++++++++++++++++++++++++++++++
+[00:09:34] [main/INFO] [REI] REIServerPlugin starting main-reload for END.
+[00:09:34] [main/DEBUG] [REI] Reloadables (2):
+[00:09:34] [main/DEBUG] [REI]  - MenuInfoRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[00:09:34] [main/INFO] [REI] Plugins (4):
+[00:09:34] [main/INFO] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:34] [main/INFO] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:34] [main/INFO] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:34] [main/INFO] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:34] [main/INFO] [REI] ++++++++++++++++++++++++++++++++++++++++
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/MenuInfoRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/MenuInfoRegistryImpl/" done in 128.2 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/SlotAccessorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/SlotAccessorRegistryImpl/" done in 127.0 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/" done in 665.2 μs
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin started main-reload for END.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 133.0 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 127.5 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/DEBUG] [REI] Added menu info for class com.tiviacz.travelersbackpack.inventory.menu.TravelersBackpackBaseMenu [minecraft:plugins/crafting]: me.shedaniel.rei.api.common.transfer.info.simple.SimpleMenuInfoProvider$$Lambda/0x00007811ea894530@7467df2e
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 5.018 ms
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 133.6 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/" done in 6.247 ms
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 136.4 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 120.5 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/ReiCompat of ReiCompat [travelersbackpack]/" done in 125.0 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/DEBUG] [REI] Added slot accessor serializer: me.shedaniel.rei.plugin.common.runtime.DefaultRuntimePlugin$1@640fd5da [roughlyenoughitems:vanilla]
+[00:09:34] [main/DEBUG] [REI] Added slot accessor serializer: me.shedaniel.rei.plugin.common.runtime.DefaultRuntimePlugin$2@1efe83bd [roughlyenoughitems:player]
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 2.109 ms
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/" done in 3.166 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin ending main-reload for END.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/MenuInfoRegistryImpl/"
+[00:09:34] [main/DEBUG] [REI] Registered 1 menu infos
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/MenuInfoRegistryImpl/" done in 421.7 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/SlotAccessorRegistryImpl/"
+[00:09:34] [main/DEBUG] [REI] Registered 2 slot accessor serializers
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/SlotAccessorRegistryImpl/" done in 383.8 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/" done in 1.236 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin ended main-reload for END in 19.12 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIPlugin starting post-reload for END.
+[00:09:34] [main/DEBUG] [REI] Reloadables (7):
+[00:09:34] [main/DEBUG] [REI]  - EntryTypeRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - RecipeManagerContextImpl
+[00:09:34] [main/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - FluidSupportProviderImpl
+[00:09:34] [main/DEBUG] [REI] Plugins (4):
+[00:09:34] [main/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 124.3 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 125.9 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 142.8 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/ReiCompat of ReiCompat [travelersbackpack]/" done in 254.7 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/" done in 1.560 ms
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/EntryTypeRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/EntryTypeRegistryImpl/" done in 107.1 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/EntrySettingsAdapterRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/EntrySettingsAdapterRegistryImpl/" done in 123.6 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/RecipeManagerContextImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/RecipeManagerContextImpl/" done in 119.4 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/ItemComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/ItemComparatorRegistryImpl/" done in 128.7 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/FluidComparatorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/FluidComparatorRegistryImpl/" done in 109.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/DisplaySerializerRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/DisplaySerializerRegistryImpl/" done in 123.1 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/FluidSupportProviderImpl/"
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/FluidSupportProviderImpl/" done in 115.0 μs
+[00:09:34] [main/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/" done in 1.871 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/INFO] [REI] REIPlugin finished post-reload for END in 3.674 ms, totaling 56.70 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/DEBUG] [REI] REIServerPlugin starting post-reload for END.
+[00:09:34] [main/DEBUG] [REI] Reloadables (2):
+[00:09:34] [main/DEBUG] [REI]  - MenuInfoRegistryImpl
+[00:09:34] [main/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[00:09:34] [main/DEBUG] [REI] Plugins (4):
+[00:09:34] [main/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) AetherREIServerPlugin of AetherREIServerPlugin [aether]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) ReiCompat of ReiCompat [travelersbackpack]
+[00:09:34] [main/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 120.7 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/AetherREIServerPlugin of AetherREIServerPlugin [aether]/" done in 135.6 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/ReiCompat of ReiCompat [travelersbackpack]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/ReiCompat of ReiCompat [travelersbackpack]/" done in 125.0 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 117.7 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/" done in 1.202 ms
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/MenuInfoRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/MenuInfoRegistryImpl/" done in 154.7 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/SlotAccessorRegistryImpl/"
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/SlotAccessorRegistryImpl/" done in 158.8 μs
+[00:09:34] [main/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/" done in 1.013 ms
+[00:09:34] [main/DEBUG] [REI] ========================================
+[00:09:34] [main/INFO] [REI] REIServerPlugin finished post-reload for END in 2.488 ms, totaling 23.54 ms.
+[00:09:34] [main/DEBUG] [REI] ========================================
